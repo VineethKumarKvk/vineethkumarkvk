@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MDM Project for an American Client**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **React.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
